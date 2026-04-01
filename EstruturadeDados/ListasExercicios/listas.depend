@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1775063535 source:/home/guilherme/Downloads/listas/main.c
+	<stdio.h>
+	<stdlib.h>
+	"listas.h"
+
+1775063610 /home/guilherme/Downloads/listas/listas.h
+	<stdio.h>
+	<stdlib.h>
+
